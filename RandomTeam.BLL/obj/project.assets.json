@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muhammed.nurdag\\source\\repos\\RandomTeam\\RandomTeam.BLL\\RandomTeam.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.BLL\\RandomTeam.BLL.csproj",
       "projectName": "RandomTeam.BLL",
-      "projectPath": "C:\\Users\\muhammed.nurdag\\source\\repos\\RandomTeam\\RandomTeam.BLL\\RandomTeam.BLL.csproj",
+      "projectPath": "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.BLL\\RandomTeam.BLL.csproj",
       "packagesPath": "C:\\Users\\muhammed.nurdag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muhammed.nurdag\\source\\repos\\RandomTeam\\RandomTeam.BLL\\obj\\",
+      "outputPath": "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

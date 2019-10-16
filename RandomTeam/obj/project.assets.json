@@ -12083,11 +12083,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muhammed.nurdag\\source\\repos\\RandomTeam\\RandomTeam\\RandomTeam.csproj",
+      "projectUniqueName": "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam\\RandomTeam.csproj",
       "projectName": "RandomTeam",
-      "projectPath": "C:\\Users\\muhammed.nurdag\\source\\repos\\RandomTeam\\RandomTeam\\RandomTeam.csproj",
+      "projectPath": "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam\\RandomTeam.csproj",
       "packagesPath": "C:\\Users\\muhammed.nurdag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muhammed.nurdag\\source\\repos\\RandomTeam\\RandomTeam\\obj\\",
+      "outputPath": "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,74 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muhammed.nurdag\\source\\repos\\RandomTeam\\RandomTeam.DAL\\RandomTeam.DAL.csproj": {}
+    "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.DAL\\RandomTeam.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muhammed.nurdag\\source\\repos\\RandomTeam\\RandomTeam.DAL\\RandomTeam.DAL.csproj": {
+    "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.DAL\\RandomTeam.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muhammed.nurdag\\source\\repos\\RandomTeam\\RandomTeam.DAL\\RandomTeam.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.DAL\\RandomTeam.DAL.csproj",
         "projectName": "RandomTeam.DAL",
-        "projectPath": "C:\\Users\\muhammed.nurdag\\source\\repos\\RandomTeam\\RandomTeam.DAL\\RandomTeam.DAL.csproj",
+        "projectPath": "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.DAL\\RandomTeam.DAL.csproj",
         "packagesPath": "C:\\Users\\muhammed.nurdag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muhammed.nurdag\\source\\repos\\RandomTeam\\RandomTeam.DAL\\obj\\",
+        "outputPath": "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\muhammed.nurdag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://package.medyasoftdigital.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.Entities\\RandomTeam.Entities.csproj": {
+                "projectPath": "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.Entities\\RandomTeam.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.Entities\\RandomTeam.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.Entities\\RandomTeam.Entities.csproj",
+        "projectName": "RandomTeam.Entities",
+        "projectPath": "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.Entities\\RandomTeam.Entities.csproj",
+        "packagesPath": "C:\\Users\\muhammed.nurdag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

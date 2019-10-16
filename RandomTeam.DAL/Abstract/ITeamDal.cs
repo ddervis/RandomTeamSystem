@@ -1,10 +1,12 @@
-﻿using System;
+﻿using RandomTeam.Entities;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace RandomTeam.DAL.Abstract
 {
-    interface ITeamDal
+   public interface ITeamDal
     {
+        Team GetTeams();
     }
 }

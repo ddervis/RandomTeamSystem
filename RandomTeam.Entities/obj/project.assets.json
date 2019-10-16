@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muhammed.nurdag\\source\\repos\\RandomTeam\\RandomTeam.Entities\\RandomTeam.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.Entities\\RandomTeam.Entities.csproj",
       "projectName": "RandomTeam.Entities",
-      "projectPath": "C:\\Users\\muhammed.nurdag\\source\\repos\\RandomTeam\\RandomTeam.Entities\\RandomTeam.Entities.csproj",
+      "projectPath": "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.Entities\\RandomTeam.Entities.csproj",
       "packagesPath": "C:\\Users\\muhammed.nurdag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muhammed.nurdag\\source\\repos\\RandomTeam\\RandomTeam.Entities\\obj\\",
+      "outputPath": "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

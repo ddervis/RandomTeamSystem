@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "RandomTeam.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/RandomTeam.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RandomTeam.Entities.dll": {}
+        }
       }
     }
   },
@@ -678,11 +688,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "RandomTeam.Entities/1.0.0": {
+      "type": "project",
+      "path": "../RandomTeam.Entities/RandomTeam.Entities.csproj",
+      "msbuildProject": "../RandomTeam.Entities/RandomTeam.Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "Microsoft.NETCore.App >= 2.2.0"
+      "Microsoft.NETCore.App >= 2.2.0",
+      "RandomTeam.Entities >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -692,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muhammed.nurdag\\source\\repos\\RandomTeam\\RandomTeam.DAL\\RandomTeam.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.DAL\\RandomTeam.DAL.csproj",
       "projectName": "RandomTeam.DAL",
-      "projectPath": "C:\\Users\\muhammed.nurdag\\source\\repos\\RandomTeam\\RandomTeam.DAL\\RandomTeam.DAL.csproj",
+      "projectPath": "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.DAL\\RandomTeam.DAL.csproj",
       "packagesPath": "C:\\Users\\muhammed.nurdag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muhammed.nurdag\\source\\repos\\RandomTeam\\RandomTeam.DAL\\obj\\",
+      "outputPath": "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -715,7 +731,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.Entities\\RandomTeam.Entities.csproj": {
+              "projectPath": "C:\\Users\\muhammed.nurdag\\Desktop\\RandomTeam\\RandomTeam.Entities\\RandomTeam.Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
