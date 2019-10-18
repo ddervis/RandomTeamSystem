@@ -3,9 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace RandomTeam.DAL.Abstract
+namespace RandomTeam.DAL
 {
-   public interface ITeamDal
+   public interface ITeamRepository
     {
         Team GetTeams();
     }
